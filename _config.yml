@@ -233,9 +233,6 @@ defaults:
     values:
       layout: "page"
       
-  collections:
-    projects:
-      output: true
 
 # Exclude these files from production site
 exclude:
