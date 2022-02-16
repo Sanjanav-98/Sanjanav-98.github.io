@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Visual Assistance for the blind and Visually Impaired
 subtitle: Undergrad Capstone project
 thumbnail-img: /assets/img/vas.png
