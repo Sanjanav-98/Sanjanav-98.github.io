@@ -40,11 +40,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "sanjanav@usc.edu"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: Sanjanav-98
 #  medium: yourname
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/sanjana-vasudeva-27413a139/
+  linkedin: sanjana-vasudeva-27413a139
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
