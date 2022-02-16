@@ -1,11 +1,11 @@
-layout: post
+
 title: Visual Assistance for the blind and Visually Impaired
 subtitle: Undergrad Capstone project
-thumbnail-img: /assets/img/vas.png
+#thumbnail-img: /assets/img/vas.png
 ---
 We seek to turn the visual world into an audible experience for the blind. To assist blind and visually impaired people in identifying their surroundings and answer questions about their surroundings in their day-to-day lives.
 
-![alt text](/assets/img/poster.png)
+picture: /assets/img/poster.png
 
 [Check out the code](https://github.com/Sanjanav-98/Visual-Assistance-for-the-Blind-)
 
