@@ -1,13 +1,34 @@
-
-title: Visual Assistance for the blind and Visually Impaired
-subtitle: Undergrad Capstone project
-#thumbnail-img: /assets/img/vas.png
 ---
-We seek to turn the visual world into an audible experience for the blind. To assist blind and visually impaired people in identifying their surroundings and answer questions about their surroundings in their day-to-day lives.
+__Advertisement :)__
 
-picture: /assets/img/poster.png
+- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
+  resize in browser.
+- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
+  i18n with plurals support and easy syntax.
 
-[Check out the code](https://github.com/Sanjanav-98/Visual-Assistance-for-the-Blind-)
+You will like those projects!
 
-[Link to the report](https://docs.google.com/document/d/1_qEKEDxThBzZ_71iP1GVDafg-zKegzqz/edit?usp=sharing&ouid=109778179867412778366&rtpof=true&sd=true)
+---
 
+# h1 Heading 8-)
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading
+
+
+## Horizontal Rules
+
+___
+
+---
+
+***
+
+
+## Typographic replacements
+
+Enable typographer option to see result.
+
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-
