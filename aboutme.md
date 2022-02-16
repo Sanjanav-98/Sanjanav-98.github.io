@@ -15,5 +15,5 @@ My name is Sanjana Vasudeva. I am a graduate student at the University of Southe
 ## Work Experience 
 
 * MS in Electrical Engineering (specialization in Machine Learning and Data Science) - May 2023
-* B.Tech in Electronics and Communications (minors in COmputer Science engineering) - Nov 2020
+* B.Tech in Electronics and Communications (minors in Computer Science engineering) - Nov 2020
 
