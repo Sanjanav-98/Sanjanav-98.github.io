@@ -12,7 +12,7 @@ My name is Sanjana Vasudeva. I am a graduate student at the University of Southe
 * Technical Intern, Tejas Networks (Jun 2019 - Jul 2019)
 * Technical Intern, ClearTrip (Jun 2018 - Jul 2018)
 
-## Work Experience 
+## Education
 
 * MS in Electrical Engineering (specialization in Machine Learning and Data Science) - May 2023
 * B.Tech in Electronics and Communications (minors in Computer Science engineering) - Nov 2020
